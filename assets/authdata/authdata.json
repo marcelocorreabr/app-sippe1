@@ -5,7 +5,7 @@
         "idResource": 2,
         "codApplication": 1,
         "name": "MOD_SIPPE-APP1",
-        "description": "Módulo App sippe 1",
+        "description": "https://marcelocorreabr.github.io/app-sippe1/",
         "type": "PLATFORM_MODULE",
         "inclusion": "2020-03-20T14:50:57"
     },
@@ -21,13 +21,13 @@
             "idResource": 4,
             "codApplication": 1,
             "name": "MOD_SIPPE-APP2",
-            "description": "Módulo App sippe 2",
+            "description": "https://marcelocorreabr.github.io/app-sippe2/",
             "type": "PLATFORM_MODULE",
             "inclusion": "2020-03-20T14:50:57"
         },
         "codApplication": 1,
         "name": "FEATURE_SIPPE-APP1_INCLUSAO",
-        "description": "Módulo 1 - Feature inclusão",
+        "description": "true",
         "type": "PLATFORM_FEATURE",
         "inclusion": "2020-03-20T14:51:12"
     },
@@ -37,13 +37,13 @@
             "idResource": 4,
             "codApplication": 1,
             "name": "MOD_SIPPE-APP2",
-            "description": "Módulo App sippe 2",
+            "description": "https://marcelocorreabr.github.io/app-sippe2/",
             "type": "PLATFORM_MODULE",
             "inclusion": "2020-03-20T14:50:57"
         },
         "codApplication": 1,
         "name": "FEATURE_SIPPE-APP1_EXCLUSAO",
-        "description": "Módulo 1 - Feature exclusão",
+        "description": "true",
         "type": "PLATFORM_FEATURE",
         "inclusion": "2020-03-20T14:51:12"
     }
